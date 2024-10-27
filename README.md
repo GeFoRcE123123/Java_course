@@ -1,1 +1,1 @@
-# Java_course
+# Лабы на курс "Разработка Java-приложений с использованием Spring Framework"
